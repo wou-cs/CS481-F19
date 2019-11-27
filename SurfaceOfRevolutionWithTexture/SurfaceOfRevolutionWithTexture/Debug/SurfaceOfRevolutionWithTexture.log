@@ -1,0 +1,15 @@
+﻿  Game.cpp
+  IvClock.cpp
+C:\Users\morses\Documents\Repositories\essentialmath-sols\cs481\SurfaceOfRevolutionWithTexture\SurfaceOfRevolutionWithTexture\Game.cpp(18,10): fatal error C1083: Cannot open include file: 'IvRendererHelp.h': No such file or directory
+  IvEventHandler.cpp
+C:\Users\morses\Documents\Repositories\essentialmath-sols\cs481\SurfaceOfRevolutionWithTexture\SurfaceOfRevolutionWithTexture\IvClock.cpp(19,10): fatal error C1083: Cannot open include file: 'IvClock.h': No such file or directory
+  IvGame.cpp
+C:\Users\morses\Documents\Repositories\essentialmath-sols\cs481\SurfaceOfRevolutionWithTexture\SurfaceOfRevolutionWithTexture\IvEventHandler.cpp(18,10): fatal error C1083: Cannot open include file: 'IvEventHandler.h': No such file or directory
+  IvMainOGL.cpp
+C:\Users\morses\Documents\Repositories\essentialmath-sols\cs481\SurfaceOfRevolutionWithTexture\SurfaceOfRevolutionWithTexture\IvGame.cpp(20,10): fatal error C1083: Cannot open include file: 'IvGame.h': No such file or directory
+  Player.cpp
+C:\Users\morses\Documents\Repositories\essentialmath-sols\cs481\SurfaceOfRevolutionWithTexture\SurfaceOfRevolutionWithTexture\IvMainOGL.cpp(21,14): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  SurfaceOfRevolution.cpp
+C:\Users\morses\Documents\Repositories\essentialmath-sols\cs481\SurfaceOfRevolutionWithTexture\SurfaceOfRevolutionWithTexture\Player.cpp(18,10): fatal error C1083: Cannot open include file: 'IvRenderer.h': No such file or directory
+  Generating Code...
+C:\Users\morses\Documents\Repositories\essentialmath-sols\cs481\SurfaceOfRevolutionWithTexture\SurfaceOfRevolutionWithTexture\SurfaceOfRevolution.h(3,10): fatal error C1083: Cannot open include file: 'IvVertexFormats.h': No such file or directory
