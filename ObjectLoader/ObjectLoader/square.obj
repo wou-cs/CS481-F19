@@ -1,0 +1,24 @@
+# Manually created OBJ file
+# Simple 2-triangle folded square
+# Like a paper with a crease folded corner to corner
+# normals are per vertex and are different per triangle
+
+# define as if it were a QUAD
+o Square
+v -2.0 -1.0 0.0
+v  2.0 -1.0 -0.5
+v  2.0  1.0 0.0
+v -2.0  1.0 -0.5
+
+vt 0.0 0.0
+vt 1.0 0.0
+vt 1.0 1.0
+vt 0.0 1.0
+
+vn  0.000  0.000 1.000
+vn  0.110 -0.110 0.988
+vn  0.000  0.000 1.000
+vn -0.110  0.110 0.988
+
+f 1/1/1 2/2/2 3/3/3
+f 3/3/3 4/4/4 1/1/1
